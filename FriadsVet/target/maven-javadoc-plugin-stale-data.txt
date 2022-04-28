@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/friad/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/friad/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/friad/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar'
+--module-path
+'C:/Users/friad/Desktop/FriadsVet/FriadsVet/target/classes;C:/Users/friad/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/friad/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/friad/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar'
+--patch-module
+com.mycompany.app='C:/Users/friad/Desktop/FriadsVet/FriadsVet/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/friad/Desktop/FriadsVet/FriadsVet/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/friad/Desktop/FriadsVet/FriadsVet/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'App 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/friad/Desktop/FriadsVet/FriadsVet/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'App 1.0-SNAPSHOT API'
+com.mycompany.app
+'C:/Users/friad/Desktop/FriadsVet/FriadsVet/src/main/java/module-info.java'
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\allclasses-index.html = 1651135313158
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\allpackages-index.html = 1651135313160
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\copy.svg = 1651135313193
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\element-list = 1651135313068
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\help-doc.html = 1651135313187
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\index-all.html = 1651135313180
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\index.html = 1651135313182
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\jquery-ui.overrides.css = 1651135313223
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\member-search-index.js = 1651135313166
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\module-search-index.js = 1651135313162
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\overview-tree.html = 1651135313145
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\package-search-index.js = 1651135313163
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\script.js = 1651135313191
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\search.js = 1651135313196
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\serialized-form.html = 1651135313119
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\stylesheet.css = 1651135313190
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\tag-search-index.js = 1651135313167
+C:\Users\friad\Desktop\FriadsVet\FriadsVet\target\site\apidocs\type-search-index.js = 1651135313164
